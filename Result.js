@@ -10,11 +10,11 @@ function Result({secretNum,term}){
     result='Lower';
    }
    else if(term==secretNum){
-    result='Yippee';
+    result='Correct!!!!!!!';
    }
    else
    {
-    result="enter valid input";
+    result="Enter the Valid Input";
    }
 }
    return(
